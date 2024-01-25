@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import ReactJsFacts from './ReactJsFacts';
+import BusinessCard from './BusinessCard';
 // import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ReactJsFacts/>
+    <BusinessCard/>
   </React.StrictMode>
 );
 
