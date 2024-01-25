@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+.navbar{
+    background: #F55A5A;
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    justify-content: center;
+}
+.img--padding{
+    padding-right: 4px;
+}
+.nav--h3{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+.mount{
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+    padding-right: 20px;
+}
+.mount--section{
+    padding: 45px 40px;
+    display: flex;
+    align-items: center;
+}
+.g--map{
+    color: #918E9B;
+}
+.mount--text{
+    font-size: 25px;
+    font-weight: 700;
+}
+.date--text{
+    color: #2B283A;
+    font-weight: 700;
+}
+.description--text{
+    color: #2B283A;
+    line-height: 150%;
+}
+.location--icon{
+    padding-right: 4px;
+}
+.country{
+    padding-right: 20px;
+}
+.mount--text{
+    padding-bottom: 7px;
+}
+.date--text{
+    padding-bottom: 9px;
+}
