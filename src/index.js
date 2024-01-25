@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import BusinessCard from './BusinessCard';
-// import './index.css';
+import Airbnb from './Airbnb';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BusinessCard/>
+    <Airbnb/>
   </React.StrictMode>
 );
 
